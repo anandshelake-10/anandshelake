@@ -1,223 +1,200 @@
-# Hi, I'm Anand Shelake 👋
+<h1 align="center">Hi 👋, I'm Anand Shelake</h1>
 
-### Data Analyst | Business Intelligence Analyst | SQL | Power BI | Advanced Excel | Python
+<h3 align="center">
+  Data Analyst | Business Intelligence Analyst | Business Analytics
+</h3>
 
-📍 Pune, Maharashtra, India
+<p align="center">
+  Turning data into meaningful insights through SQL, Python, Power BI, and Excel.
+</p>
 
-I am an MBA graduate in Business Analytics with a strong interest in **Data Analytics, Business Intelligence, Reporting, and Business Analysis**.
-
-I work with **SQL, Power BI, Advanced Excel, and Python** to clean, validate, transform, analyse, and visualize data. My experience includes developing **KPI dashboards, MIS reports, SQL reporting queries, data validation workflows, and business-focused analytical reports**.
-
-I am currently building my portfolio around practical **Data Analyst, BI Analyst, Business Analyst, Reporting, and Data Analytics** projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/anand-shelake-33464922b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anandshelake270@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/anandshelake-10">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎓 MBA in Business Analytics from Savitribai Phule Pune University
+I'm an MBA graduate specializing in Business Analytics with internship and project experience in data analysis, business intelligence, and reporting.
+
+I enjoy transforming raw data into structured information, identifying patterns, analyzing business performance, and presenting findings through meaningful visualizations.
+
+My focus is on combining technical analytical skills with business understanding to support data-driven decision-making.
+
+- 🎓 MBA in Business Analytics
 - 📊 Interested in Data Analytics and Business Intelligence
-- 💻 Experienced with SQL, Power BI, Advanced Excel, and Python
-- 📈 Interested in KPI reporting, dashboard development, data validation, and business insights
-- 🧹 Hands-on experience with data cleaning, transformation, validation, and EDA
-- 🔎 Familiar with SQL joins, subqueries, CTEs, window functions, and aggregate functions
-- 📊 Experienced in developing Power BI dashboards and Excel-based MIS reports
-- 🤝 Exposure to gathering reporting requirements and working with stakeholders
+- 💻 Working with SQL, Python, Power BI, and Advanced Excel
+- 🔍 Interested in data cleaning, exploratory data analysis, and statistical analysis
+- 📈 Focused on dashboards, KPI reporting, and business insights
+- 🚀 Continuously improving my analytical, technical, and problem-solving skills
+
+**Career Focus:** Data Analyst | Business Intelligence Analyst | Business Analyst
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Data Analysis
-- Data Cleaning
-- Data Transformation
-- Data Validation
+### 📊 Data Analysis & Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🗄️ Database & Querying
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+- Joins, subqueries, and Common Table Expressions (CTEs)
+- Window functions and aggregate functions
+- Data filtering, grouping, and validation
+
+### 📈 Business Intelligence & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+</p>
+
+- Power BI dashboards and KPI reporting
+- Power Query and data modeling
+- DAX fundamentals
+- Excel PivotTables and advanced formulas
+- Data visualization and business reporting
+
+### 📉 Statistics & Analytical Methods
+
 - Exploratory Data Analysis (EDA)
-- KPI Analysis
-- Statistical Analysis
-- Predictive Analytics
-- Data Storytelling
+- Descriptive and inferential statistics
+- Hypothesis testing and correlation analysis
+- Data cleaning and transformation
+- Data validation and quality checks
+- Trend analysis and business performance analysis
 
-### SQL / MySQL
-- DBMS
-- Data Extraction
-- Data Manipulation
-- Joins
-- Subqueries
-- CTEs
-- Window Functions
-- Aggregate Functions
-- Filtering, Sorting & Grouping
-- Data Validation
-- Reporting Queries
+### 🔧 Tools
 
-### Power BI
-- Dashboard Development
-- Power Query Editor
-- Data Modelling
-- DAX
-- KPI Reporting
-- Data Visualization
-- Business Intelligence
-
-### Advanced Excel
-- Pivot Tables
-- VLOOKUP
-- XLOOKUP
-- INDEX-MATCH
-- IF
-- SUMIFS
-- COUNTIFS
-- VBA & Macros
-- Data Validation
-- Conditional Formatting
-- Excel Charts
-- Large Data Handling
-- Report Reconciliation
-
-### Python
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+</p>
 
 ---
 
-## Tools & Technologies
+## 🚀 Featured Projects
 
-| Category | Tools / Technologies |
-|---|---|
-| Programming | Python |
-| Database | MySQL, SQL |
-| Data Analysis | Pandas, NumPy |
-| Business Intelligence | Power BI |
-| Spreadsheet Analytics | Microsoft Excel |
-| Data Transformation | Power Query |
-| Data Modelling | Power BI |
-| Reporting | Power BI, Advanced Excel, SQL |
-| Version Control | Git, GitHub |
+### 1. 📊 Sales & Marketing Analysis Using SQL and Power BI
 
----
+**Tools:** SQL | MySQL | Power BI
 
-## Featured Projects
+Analyzed enquiry and admission data to understand sales performance, marketing effectiveness, conversion rates, and financial trends.
 
-### 1. Digital Payment & Consumer Spending Analysis
+- Examined enquiry-to-admission conversion and lead-source performance.
+- Analyzed service performance, revenue trends, and pending fees.
+- Developed Power BI dashboards for sales, marketing, and financial analysis.
 
-**Tools:** Python, Pandas, NumPy, Power BI, Excel
-
-Analysed consumer spending and digital payment data to identify spending patterns, payment preferences, and trends.
-
-**Key Work:**
-- Cleaned and transformed data using Python and Excel
-- Performed Exploratory Data Analysis using Pandas and NumPy
-- Analysed consumer spending patterns and payment preferences
-- Developed an interactive Power BI dashboard
-- Presented KPIs and spending trends through visualizations
-
-**Repository:** `[Add GitHub Repository Link]`
+🔗 **[View Project Repository](https://github.com/anandshelake-10/sales-marketing-analysis-sql-powerbi)**
 
 ---
 
-### 2. Sales & Marketing Data Analysis
+### 2. 💳 Digital Payment & Consumer Spending Analysis
 
-**Tools:** SQL, MySQL, Power BI
+**Tools:** Python | Pandas | Statistics | Power BI | Excel
 
-Analysed 1,100+ sales records using SQL and developed interactive Power BI dashboards for KPI monitoring and sales performance analysis.
+Explored digital payment adoption and consumer spending behavior using survey data.
 
-**Key Work:**
-- Analysed 1,100+ sales records using SQL
-- Used SQL for data extraction, analysis, and validation
-- Developed reporting queries for business analysis
-- Designed interactive Power BI dashboards
-- Created KPI-focused visualizations for sales performance
-- Prepared analytical reports to support data-driven decision-making
+- Performed data preparation, exploratory analysis, and statistical testing.
+- Investigated relationships between payment preferences and consumer spending perceptions.
+- Created a Power BI dashboard to communicate key analytical findings.
 
-**Repository:** `[Add GitHub Repository Link]`
+🔗 **[View Project Repository](https://github.com/anandshelake-10/digital-payment-consumer-spending-analysis)**
 
 ---
 
-### 3. Service Quality & Passenger Trend Analysis
+### 3. 🚕 Taxi Revenue & Payment Analysis
 
-**Tools:** SQL, Advanced Excel
+**Tools:** Python | Pandas | Statistics | Data Visualization
 
-Analysed passenger and service data using SQL and Advanced Excel to evaluate service quality and operational performance.
+Analyzed taxi trip data to explore fare patterns, payment preferences, and differences between payment methods.
 
-**Key Work:**
-- Analysed passenger and service-related data
-- Used SQL for data analysis and reporting
-- Created Excel reports and visualizations
-- Evaluated service quality and operational performance
-- Generated insights to support reporting and data analysis
+- Performed exploratory data analysis to examine trip and fare characteristics.
+- Compared average fares across payment methods and conducted statistical hypothesis testing.
+- Used analytical findings to investigate patterns in taxi revenue and passenger payment behavior.
 
-**Repository:** `[Add GitHub Repository Link]`
+🔗 **[View Project Repository](https://github.com/anandshelake-10/taxi-revenue-payment-analysis)**
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-### Data Analyst Intern — NMD Infotech, Pune
-**January 2026 – June 2026**
+### Data Analyst Intern | NMD Infotech, Pune
 
-- Prepared, cleaned, transformed, and validated business datasets using SQL, Python, Advanced Excel, and Power Query.
-- Developed SQL queries using joins, subqueries, CTEs, and window functions for reporting and analysis.
-- Built Power BI dashboards for KPI monitoring, operational reporting, and business intelligence insights.
-- Created Excel-based MIS reports using Pivot Tables, XLOOKUP, VLOOKUP, INDEX-MATCH, SUMIFS, and Conditional Formatting.
-- Performed data validation, quality checks, and ETL support.
-- Collaborated with stakeholders to gather reporting requirements and deliver analytical reports.
+**January 2026 – June/July 2026**
 
-### Business Analyst Intern — NMD Infotech, Pune
+- Cleaned, transformed, and validated datasets using SQL, Python, Excel, and Power Query.
+- Performed SQL-based data analysis and exploratory analysis to identify trends and patterns.
+- Used Python libraries such as Pandas and NumPy for data preparation and analysis.
+- Developed Power BI dashboards to present KPIs and business performance indicators.
+- Prepared Excel-based reports and supported data quality checks.
+
+### Business Analyst Intern | NMD Infotech, Pune
+
 **June 2025 – July 2025**
 
-- Analysed business data using SQL, Python, Excel, and Power BI.
-- Performed preprocessing, validation, and Exploratory Data Analysis using Pandas and NumPy.
-- Developed Power BI dashboards and Excel-based MIS reports.
-- Worked with stakeholders to understand reporting requirements and improve reporting accuracy.
+- Analyzed business data using SQL, Excel, and Power BI.
+- Supported business reporting and interpretation of analytical findings.
+- Worked with business requirements to organize information and support reporting needs.
 
 ---
 
-## Education
+## 🎓 Education
 
-### MBA — Business Analytics
-**Savitribai Phule Pune University, Pune**  
-2026 | CGPA: **8.29/10**
+**Master of Business Administration (MBA)**  
+Specialization: Business Analytics
+CGPA: 8.29
+Savitribai Phule Pune University | 2026
 
-### Bachelor of Business Administration
-**Shivaji University, Kolhapur**  
-2024 | CGPA: **8.0/10**
-
----
-
-## Training & Certifications
-
-- **Data Analytics Program (6 Months)** — NMD Pvt. Ltd., Pune | 2026
-- **SQL** — HackerRank
-- **Data Analytics Job Simulation** — Deloitte, Forage
-- **TCS iON Career Edge – Young Professional** — TCS iON
+**Bachelor of Business Administration (BBA)**  
+CGPA: 8.0
+Shivaji University | 2024
 
 ---
 
-## Career Interests
+## 📜 Certifications & Training
 
-I am interested in entry-level opportunities in:
-
-- Data Analytics
-- Business Intelligence
-- Business Analysis
-- Reporting & MIS
-- Dashboard Development
-- Data Quality & Validation
-- SQL / Data Analysis
+- **HackerRank SQL Advanced** — SQL proficiency assessment
+- **Deloitte Data Analytics Job Simulation** — Data analytics and visualization
+- **TCS iON Career Edge** — Professional development
+- **Fortune Cloud Data Analytics Program** — Data analytics training
 
 ---
 
-## Let's Connect
+## 📌 My Analytics Workflow
 
-- 📧 Email: [anandshelake270@gmail.com](mailto:anandshelake270@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/anand-shelake-33464922b](https://www.linkedin.com/in/anand-shelake-33464922b)
-- 📍 Pune, Maharashtra, India
-
----
-
-## Portfolio
-
-More analytical projects and case studies will be added to this profile as I continue building my Data Analytics and Business Intelligence portfolio.
+```text
+Business Problem
+      ↓
+Data Collection & Understanding
+      ↓
+Data Cleaning & Validation
+      ↓
+SQL / Python Analysis
+      ↓
+Exploratory & Statistical Analysis
+      ↓
+Power BI Dashboards & Reporting
+      ↓
+Insights & Data-Driven Decisions
