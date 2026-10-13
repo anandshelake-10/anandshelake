@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Anand Shelake</h1>
 
 <h3 align="center">
@@ -10,13 +11,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anand-shelake-33464922b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anandshelake270@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/anandshelake-10">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -26,16 +27,16 @@
 
 I'm an MBA graduate specializing in Business Analytics with internship and project experience in data analysis, business intelligence, and reporting.
 
-I enjoy transforming raw data into structured information, identifying patterns, analyzing business performance, and presenting findings through meaningful visualizations.
+I enjoy transforming raw data into meaningful information, identifying patterns, analyzing business performance, and presenting findings through clear visualizations.
 
-My focus is on combining technical analytical skills with business understanding to support data-driven decision-making.
+My goal is to combine technical analytical skills with business understanding to support better, data-driven decisions.
 
 - 🎓 MBA in Business Analytics
 - 📊 Interested in Data Analytics and Business Intelligence
 - 💻 Working with SQL, Python, Power BI, and Advanced Excel
 - 🔍 Interested in data cleaning, exploratory data analysis, and statistical analysis
 - 📈 Focused on dashboards, KPI reporting, and business insights
-- 🚀 Continuously improving my analytical, technical, and problem-solving skills
+- 🚀 Continuously improving my analytical and problem-solving skills
 
 **Career Focus:** Data Analyst | Business Intelligence Analyst | Business Analyst
 
@@ -43,7 +44,7 @@ My focus is on combining technical analytical skills with business understanding
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analysis & Programming
+### 📊 Programming & Data Analysis
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -96,7 +97,7 @@ My focus is on combining technical analytical skills with business understanding
 
 ## 🚀 Featured Projects
 
-### 1. 📊 Sales & Marketing Analysis Using SQL and Power BI
+### 📊 1. Sales & Marketing Analysis Using SQL and Power BI
 
 **Tools:** SQL | MySQL | Power BI
 
@@ -106,11 +107,11 @@ Analyzed enquiry and admission data to understand sales performance, marketing e
 - Analyzed service performance, revenue trends, and pending fees.
 - Developed Power BI dashboards for sales, marketing, and financial analysis.
 
-🔗 **[View Project Repository](https://github.com/anandshelake-10/sales-marketing-analysis-sql-powerbi)**
+🔗 **[Explore Project](https://github.com/anandshelake-10/sales-marketing-analysis-sql-powerbi)**
 
 ---
 
-### 2. 💳 Digital Payment & Consumer Spending Analysis
+### 💳 2. Digital Payment & Consumer Spending Analysis
 
 **Tools:** Python | Pandas | Statistics | Power BI | Excel
 
@@ -118,23 +119,23 @@ Explored digital payment adoption and consumer spending behavior using survey da
 
 - Performed data preparation, exploratory analysis, and statistical testing.
 - Investigated relationships between payment preferences and consumer spending perceptions.
-- Created a Power BI dashboard to communicate key analytical findings.
+- Created a Power BI dashboard to communicate analytical findings.
 
-🔗 **[View Project Repository](https://github.com/anandshelake-10/digital-payment-consumer-spending-analysis)**
+🔗 **[Explore Project](https://github.com/anandshelake-10/digital-payment-consumer-spending-analysis)**
 
 ---
 
-### 3. 🚕 Taxi Revenue & Payment Analysis
+### 🚕 3. Taxi Revenue & Payment Analysis
 
-**Tools:** Python | Pandas | Statistics | Data Visualization
+**Tools:** Python | Pandas | Statistics | Data Analysis
 
 Analyzed taxi trip data to explore fare patterns, payment preferences, and differences between payment methods.
 
 - Performed exploratory data analysis to examine trip and fare characteristics.
 - Compared average fares across payment methods and conducted statistical hypothesis testing.
-- Used analytical findings to investigate patterns in taxi revenue and passenger payment behavior.
+- Investigated patterns in taxi revenue and passenger payment behavior.
 
-🔗 **[View Project Repository](https://github.com/anandshelake-10/taxi-revenue-payment-analysis)**
+🔗 **[Explore Project](https://github.com/anandshelake-10/taxi-revenue-payment-analysis)**
 
 ---
 
@@ -163,22 +164,22 @@ Analyzed taxi trip data to explore fare patterns, payment preferences, and diffe
 ## 🎓 Education
 
 **Master of Business Administration (MBA)**  
-Specialization: Business Analytics
+Specialization: Business Analytics  
 CGPA: 8.29
-Savitribai Phule Pune University | 2026
+| Savitribai Phule Pune University | 2026
 
 **Bachelor of Business Administration (BBA)**  
 CGPA: 8.0
-Shivaji University | 2024
+| Shivaji University | 2024
 
 ---
 
 ## 📜 Certifications & Training
 
-- **HackerRank SQL Advanced** — SQL proficiency assessment
-- **Deloitte Data Analytics Job Simulation** — Data analytics and visualization
-- **TCS iON Career Edge** — Professional development
-- **Fortune Cloud Data Analytics Program** — Data analytics training
+- **HackerRank SQL Advanced**
+- **Deloitte Data Analytics Job Simulation**
+- **TCS iON Career Edge**
+- **Fortune Cloud Data Analytics Program**
 
 ---
 
@@ -198,3 +199,51 @@ Exploratory & Statistical Analysis
 Power BI Dashboards & Reporting
       ↓
 Insights & Data-Driven Decisions
+````
+
+I believe effective data analysis combines reliable data, appropriate analytical methods, clear visualizations, and a strong understanding of the business problem.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anandshelake-10&show_icons=true&hide_border=true&theme=transparent"
+    alt="Anand's GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandshelake-10&layout=compact&hide_border=true&theme=transparent"
+    alt="Most used programming languages"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm always excited to connect with data professionals, learn from new perspectives, collaborate on interesting projects, and explore opportunities in **Data Analytics and Business Intelligence**.
+
+Whether you'd like to discuss data analytics, share ideas, collaborate on a project, or talk about career opportunities, feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anand-shelake-33464922b">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:[anandshelake270@gmail.com](mailto:anandshelake270@gmail.com)">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
+  </a>
+  <a href="https://github.com/anandshelake-10">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 <b>Let's turn data into insights and insights into impact!</b>
+</p>
+
+
+
